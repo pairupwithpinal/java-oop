@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11d0b475-bc2c-4910-a2a8-008aae823fae" name="Changes" comment="Finding school name with test case!">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-oop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LibraryMamber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mamber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Netflix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/TestCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/TestNetflix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/TestPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/TestVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Testinheritance.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2dYLuKkQyRuZnl3pPxR83vbM43K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Car.executor": "Run",
+    "Application.Inheritance.executor": "Run",
+    "Application.MainVehicale.executor": "Run",
+    "Application.MainVehicle.executor": "Run",
+    "Application.VehicleMain.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "true",
+    "JUnit.TestAnimal.executor": "Run",
+    "JUnit.TestCar.executor": "Run",
+    "JUnit.TestCount.executor": "Run",
+    "JUnit.TestLibrary.executor": "Run",
+    "JUnit.TestLibraryMember.executor": "Run",
+    "JUnit.TestNetflix.executor": "Run",
+    "JUnit.TestPerson.executor": "Run",
+    "JUnit.TestRoadVehicle.executor": "Run",
+    "JUnit.TestStudent.executor": "Run",
+    "JUnit.TestVehical.executor": "Run",
+    "JUnit.TestVehical.test_status.executor": "Run",
+    "JUnit.TestVehicale.executor": "Run",
+    "JUnit.TestVehicle.executor": "Run",
+    "JUnit.Testinheritance.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "/Users/user/myws/java/java-oop/src",
+    "onboarding.tips.debug.path": "/Users/user/myws/java/java-oop/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-3183f394aec4-96c0d24d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11d0b475-bc2c-4910-a2a8-008aae823fae" name="Changes" comment="" />
+      <created>1710180286961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710180286961</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Finding school name with test case!">
+      <option name="closed" value="true" />
+      <created>1710789061587</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710789061587</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finding school name with test case!">
+      <option name="closed" value="true" />
+      <created>1710789087640</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710789087640</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finding school name with test case!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finding school name with test case!" />
+  </component>
+</project>
