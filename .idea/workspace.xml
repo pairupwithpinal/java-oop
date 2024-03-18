@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11d0b475-bc2c-4910-a2a8-008aae823fae" name="Changes" comment="Finding school name with test case!">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-oop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LibraryMamber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mamber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Netflix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/TestCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/TestNetflix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/TestPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/TestVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Testinheritance.java" afterDir="false" />
-    </list>
+    <list default="true" id="11d0b475-bc2c-4910-a2a8-008aae823fae" name="Changes" comment="Finding school name with test case!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,6 +67,12 @@
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "/Users/user/myws/java/java-oop/src",
     "onboarding.tips.debug.path": "/Users/user/myws/java/java-oop/src/Main.java"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -130,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710789087640</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Finding school name with test case!">
+      <option name="closed" value="true" />
+      <created>1710789224019</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710789224019</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
